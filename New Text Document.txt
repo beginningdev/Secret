@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Do is comming hereaaa
+=======
+mdkamsdkasd
+>>>>>>> 5efc6a9ea966f7c4c7b07db37cd9fa4b92864e2d
