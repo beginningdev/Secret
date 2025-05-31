@@ -1,7 +1,0 @@
-My name is Do, I am 27 years old
-Major: Computer Science
-<<<<<<< HEAD
-Class: grade 10
-=======
->>>>>>> 512731f9806cfa462ad90152a8219c6dec693302
-ábcsdasd
